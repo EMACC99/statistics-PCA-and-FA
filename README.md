@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10334exlBPxjed_aD7JXJ4sfnlkoDnkLE)
 
 ## Autor:
-### Eduardo Ceja
+* ### Eduardo Ceja
 
 
 Esta libreta esta hecha para la materia de Estadistica Multivariada. Tiene un boton en la parte de arriba para abrir la libreta ya que GitHub no la muestra correctamente.
